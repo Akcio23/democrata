@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 import getID from "../api/getId";
 import updatePost from "../api/put";
 import { useNavigate } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
 const Uptade = () => {
   const { id } = useParams(); // Obtém o parâmetro `id` da URL
@@ -59,9 +60,14 @@ const Uptade = () => {
             placeholder='Digite o conteudo'
             value={content}
             onChange={(e) => setContent(e.target.value)}
+            defaultValue={body.body}
           ></textarea>
         </div>
-        <input type="submit" value="Alterar posts" className='btn' />
+        <div className='usabylit'>
+        <input type="submit" value="Alterar " className='btn btn-criar' />
+        <Link className='btn ' to={'/'}>Voltar</Link>
+        </div>
+       
       </form>
 
     </div>

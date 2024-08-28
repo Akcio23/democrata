@@ -22,7 +22,7 @@ const router = createBrowserRouter([
       path: "/New",
       element: <NewPost />
     },{
-      path: "/delete",
+      path: "/delete/:id",
       element: <DeleteSucess />
     },{
       path: "/update/:id",

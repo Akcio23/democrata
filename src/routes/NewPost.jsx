@@ -3,6 +3,8 @@ import '../style/NewPost.css'
 import blogFetch from '../axios/config'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+
 
 const NewPost = () => {
   const navigate = useNavigate()
@@ -44,7 +46,12 @@ const NewPost = () => {
           onChange={(e)=> setBody(e.target.value)}
           ></textarea>
         </div>
-        <input type="submit" value="Criar Post" className='btn' />
+        <div className='usabylit'>
+        <input type="submit" value="Criar Post" className='btn btn-criar' />
+        <Link className='btn' to={'/'}>Voltar</Link>
+        </div>
+      
+        
       </form>
 
     </div>

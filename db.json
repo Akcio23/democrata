@@ -1,26 +1,34 @@
 {
   "posts": [
     {
-      "id": "5315",
+      "id": "9528",
       "body": {
-        "title": "Feijoada",
-        "body": "Um clássico da nossa culinária, a feijoada é um prato que possui algumas variações, mas todas bem deliciosas! Esta receita de feijoada que trazemos pra você é bem tradicional, contendo carnes como orelha, rabo e pé de porco. Confira como fazer e capriche no seu almoço!",
+        "title": " Dica de Design: Escolhendo a Paleta de Cores Perfeita",
+        "body": "Ao criar um design, a escolha da paleta de cores é crucial. Opte por uma paleta que transmita a mensagem que você deseja comunicar e que seja agradável aos olhos. Ferramentas como Adobe Color e Coolors podem ajudar a encontrar combinações harmônicas. Quais são suas paletas de cores favoritas? 🌈",
         "userId": 1
       }
     },
     {
-      "id": "048b",
+      "id": "eb0a",
       "body": {
-        "title": "Pé de muleque",
-        "body": "Que tal aprender a receita de pé-de-moleque, um doce bem tradicional de nosso país? Ele é muito requisitado nas festas juninas e é uma sobremesa deliciosa! Confira agora mesmo como fazer!",
+        "title": "📚 Curiosidade: A Evolução dos Computadores",
+        "body": "Você sabia que o primeiro computador pessoal foi lançado na década de 1970? Desde então, a tecnologia evoluiu a passos largos. Dos gigantescos mainframes aos smartphones ultra-rápidos, a evolução dos computadores tem sido fascinante. Quais inovações tecnológicas você mais espera para o futuro? 💻🚀",
         "userId": 1
       }
     },
     {
-      "id": "6d81",
+      "id": "57db",
       "body": {
-        "title": "Pudim de leite",
-        "body": "VVeja como fazer essa receita de pudim de leite condensado lisinho e com uma calda perfeita de caramelo. Ele é delicioso, barato e bem rápido de preparar! Com sua textura macia e sabor inconfundível, esse doce é uma verdadeira tentação para os amantes de sobremesas tradicionais. Fácil de preparar e com ingredientes simples, o pudim é uma opção perfeita para adoçar qualquer ocasião especial. Com um modo de preparo bem simples, envolvendo poucos ingredientes como leite condensado, leite, ovos e açúcar para a calda, você irá criar uma sobremesa que certamente vai encantar a todos os paladares. Surpreenda sua família e amigos com esse clássico da culinária, que além de delicioso, possui uma apresentação encantadora. Siga o passo a passo desta receita e mergulhe nessa experiência de sabores que certamente vai conquistar a todos.",
+        "title": "📈 Desenvolvimento Pessoal: A Importância da Gestão do Tempo",
+        "body": "Gerenciar seu tempo de forma eficaz pode aumentar sua produtividade e reduzir o estresse. Use técnicas como a técnica Pomodoro, listas de tarefas e planejamento semanal para se manter no caminho certo. Como você organiza seu tempo para ser mais produtivo? ⏰📅",
+        "userId": 1
+      }
+    },
+    {
+      "id": "eb2c",
+      "body": {
+        "title": "🎬 Filme da Semana: \"A Origem\"",
+        "body": "Se você ainda não assistiu a \"A Origem\" (Inception), este é o momento! O filme, dirigido por Christopher Nolan, é um mergulho profundo na mente humana e no conceito de sonhos dentro de sonhos. Qual é o seu filme de ficção científica favorito? 🍿🔍",
         "userId": 1
       }
     }

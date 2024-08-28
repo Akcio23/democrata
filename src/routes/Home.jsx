@@ -35,6 +35,7 @@ const Home = () => {
 
     useEffect(()=>{
       fechtpost() // função é chamada ao carregamento da pagina 
+      document.title = 'BLOG'
     }, []) // array vazio seta que a função será chamada apenas uma vez na pagina 
 
   return (
@@ -51,7 +52,7 @@ const Home = () => {
 
             <div className="usabylit">
             <Link to={`/update/${post.id}`}  className="btn btn-uptade">Alterar post</Link>
-            <Link to={'/delete'} onClick={() => removepost(post.id)} className="btn btn-delete">Deletar post</Link>
+            <Link to={`/delete/${post.id}`} className="btn btn-delete">Deletar post</Link>
            
             </div>
             
