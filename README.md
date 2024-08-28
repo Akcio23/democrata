@@ -47,7 +47,7 @@ Além disso, é recomendado ter um editor de código, como [VSCode](https://code
 
 ## Instalação
 
-1. Clone o repositório:
+1.Clone o repositório:
 
    ```bash
    git clone https://github.com/Akcio23/democrata
