@@ -74,7 +74,7 @@ Para iniciar o projeto, é necessário executar o json-server para simular a API
         #ou
     yarn dev
 
-3. Abra http://localhost:${porta de execução} no seu navegador para visualizar a aplicação.
+3. Abra http://localhost:${porta-de-execução} no seu navegador para visualizar a aplicação.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver alguma ideia ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
