@@ -47,16 +47,16 @@ Além disso, é recomendado ter um editor de código, como [VSCode](https://code
 
 ## Instalação
 
-1.Clone o repositório:
+1. Clone o repositório:
 
    ```bash
    git clone https://github.com/Akcio23/democrata
 
-2.Acesse o diretório do projeto:
+2. Acesse o diretório do projeto:
 
     cd democrata
 
-3.Instale as dependências:
+3. Instale as dependências:
 
         npm install
             #ou
