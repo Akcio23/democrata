@@ -42,6 +42,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 - [Node.js](https://nodejs.org/) - Ambiente de execução JavaScript.
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) - Gerenciadores de pacotes.
 - [Json-server](https://www.npmjs.com/package/json-server) - Simulador de API REST.
+- [React router](https://reactrouter.com/en/main) - Gerenciador de rotas da aplicação.
 
 Além disso, é recomendado ter um editor de código, como [VSCode](https://code.visualstudio.com/).
 
